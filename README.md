@@ -65,10 +65,10 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
                 exit()
 ```
 ## OUTPUT:
-### SERVER SIDE
-![OUTPUT](/server.png)
 ### CLIENT SIDE
-![OUTPUT](/client.png)
+![OUTPUT](/Echoserver/server.png)
+### SERVER SIDE
+![OUTPUT](/Echoserver/client.png)
 
 ## RESULT:
 The program is executed successfully
