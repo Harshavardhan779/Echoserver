@@ -66,9 +66,9 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ```
 ## OUTPUT:
 ### CLIENT SIDE
-![OUTPUT](/Echoserver/server.png)
+![OUTPUT](/server.png)
 ### SERVER SIDE
-![OUTPUT](/Echoserver/client.png)
+![OUTPUT](/client.png)
 
 ## RESULT:
 The program is executed successfully
